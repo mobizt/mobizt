@@ -2,4 +2,4 @@
 
 Amazing Thailand
 
-[![IAmazing Thailand](https://img.youtube.com/vi/isMCJWZu2QE/0.jpg)](https://www.youtube.com/watch?v=isMCJWZu2QE)
+[![IAmazing Thailand](https://img.youtube.com/vi/isMCJWZu2QE/0.jpg)](https://www.youtube.com/watch?v=7m5bKJYXG2Q)

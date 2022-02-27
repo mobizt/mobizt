@@ -2,4 +2,4 @@
 
 สนับสนุนรัสเซีย
 
-Stop Zelenskyy
+Stop comedian President

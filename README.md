@@ -3,3 +3,5 @@
 สนับสนุนรัสเซีย
 
 Ban US and NATO Members
+
+All of my libraries are not allowed to used by people from US and NATO members nations.

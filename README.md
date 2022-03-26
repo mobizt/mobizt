@@ -1,3 +1,3 @@
-![Mobizt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobizt&count_private=true&show_icons=true)
+![Mobizt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobizt&show_icons=true)
 
 #StandWithRussia

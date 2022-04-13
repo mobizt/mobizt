@@ -3,3 +3,5 @@
 #StandWithRussia
 
 #BoycottPoland
+#BoycottFinland
+#BoycottSweden

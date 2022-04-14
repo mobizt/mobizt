@@ -7,3 +7,11 @@
 #BoycottFinland
 
 #BoycottSweden
+
+#BoycottLithuania
+
+#BoycottEstonia
+
+#BoycottLatvia
+
+#BoycottUkraine

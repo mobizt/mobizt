@@ -15,3 +15,5 @@
 #BoycottLatvia
 
 #BoycottUkraine
+
+#BoycottBritain

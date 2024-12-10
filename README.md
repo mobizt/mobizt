@@ -13,3 +13,5 @@ One of my projects [Firebase Arduino Client Library for ESP8266 and ESP32](https
 The [E-mail client library for Arduino](https://github.com/mobizt/ESP-Mail-Client) project is the first E-mail client library in the Arduino platform that allows the embedded device to send and receive E-mail.
 
 I'm ready to support and help for fixing the issues and answering the questions related to my libraries
+
+For the freelance Arduino project job, please contact me via Email k_suwatchai@hotmail.com. 
